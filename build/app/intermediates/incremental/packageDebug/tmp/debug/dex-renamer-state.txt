@@ -1,0 +1,4 @@
+#Fri Mar 11 18:43:04 KGT 2022
+base.0=/Users/emilteimurov/Documents/auth_mega_lesson/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

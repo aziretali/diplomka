@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/auth_mega_lesson/BuildConfig.java
+ com.example.auth_mega_lesson.BuildConfig
